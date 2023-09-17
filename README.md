@@ -9,6 +9,6 @@ First I created a React project.
 
 I have taken some components in the course.The component includes a card reader and adding tailwind, daisy UI.
 
-Code link: https://github.com/mosharaf22/react-assignment/commits/main
+Code link: https://github.com/mosharaf22/react-assignment
 
 live link: https://superb-loss.surge.sh/
